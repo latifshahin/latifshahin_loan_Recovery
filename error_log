@@ -1,0 +1,351 @@
+[22-Apr-2026 07:56:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DATABASE_USER'@'localhost' (using password: YES) in /home/vwdiuanb/public_html/app/config.php:9
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/config.php(9): mysqli->__construct()
+#1 /home/vwdiuanb/public_html/app/login.php(2): include('/home/vwdiuanb/...')
+#2 {main}
+  thrown in /home/vwdiuanb/public_html/app/config.php on line 9
+[22-Apr-2026 07:56:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DATABASE_USER'@'localhost' (using password: YES) in /home/vwdiuanb/public_html/app/config.php:9
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/config.php(9): mysqli->__construct()
+#1 /home/vwdiuanb/public_html/app/login.php(2): include('/home/vwdiuanb/...')
+#2 {main}
+  thrown in /home/vwdiuanb/public_html/app/config.php on line 9
+[22-Apr-2026 07:56:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DATABASE_USER'@'localhost' (using password: YES) in /home/vwdiuanb/public_html/app/config.php:9
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/config.php(9): mysqli->__construct()
+#1 /home/vwdiuanb/public_html/app/login.php(2): include('/home/vwdiuanb/...')
+#2 {main}
+  thrown in /home/vwdiuanb/public_html/app/config.php on line 9
+[22-Apr-2026 07:56:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DATABASE_USER'@'localhost' (using password: YES) in /home/vwdiuanb/public_html/app/config.php:9
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/config.php(9): mysqli->__construct()
+#1 /home/vwdiuanb/public_html/app/login.php(2): include('/home/vwdiuanb/...')
+#2 {main}
+  thrown in /home/vwdiuanb/public_html/app/config.php on line 9
+[22-Apr-2026 10:47:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `vwdiuanb_mobileapp`.`customers`.`first_default_date` at row 1 in /home/vwdiuanb/public_html/app/customer_edit.php:41
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/customer_edit.php(41): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/customer_edit.php on line 41
+[22-Apr-2026 11:35:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE0\xA6\xB0' for column `vwdiuanb_mobileapp`.`contacts`.`note` at row 1 in /home/vwdiuanb/public_html/app/add_contact.php:24
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/add_contact.php(24): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/add_contact.php on line 24
+[22-Apr-2026 11:35:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE0\xA6\xB0' for column `vwdiuanb_mobileapp`.`contacts`.`note` at row 1 in /home/vwdiuanb/public_html/app/add_contact.php:24
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/add_contact.php(24): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/add_contact.php on line 24
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 66
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Undefined variable $officer in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:45:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/vwdiuanb/public_html/app/add_contact.php on line 67
+[22-Apr-2026 14:50:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE0\xA6\x86\xE0\xA6\x9C...' for column `vwdiuanb_mobileapp`.`contacts`.`note` at row 1 in /home/vwdiuanb/public_html/app/add_contact.php:26
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/add_contact.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/add_contact.php on line 26
+[22-Apr-2026 14:50:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE0\xA6\x86\xE0\xA6\x9C...' for column `vwdiuanb_mobileapp`.`contacts`.`note` at row 1 in /home/vwdiuanb/public_html/app/add_contact.php:26
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/add_contact.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/add_contact.php on line 26
+[22-Apr-2026 17:22:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:22:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:22:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:24:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:24:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:25:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:25:54 UTC] PHP Warning:  Undefined array key "role" in /home/vwdiuanb/public_html/app/add_officer.php on line 4
+[22-Apr-2026 17:26:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:29:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:29:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:31:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:31:25 UTC] PHP Warning:  Undefined array key "role" in /home/vwdiuanb/public_html/app/add_customer.php on line 4
+[22-Apr-2026 17:31:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:31:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:32:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:32:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:32:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/vwdiuanb/public_html/app/login.php:37
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/login.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/login.php on line 37
+[22-Apr-2026 17:38:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:38:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:33 UTC] PHP Warning:  Undefined array key "role" in /home/vwdiuanb/public_html/app/officer_edit.php on line 4
+[22-Apr-2026 17:39:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:33 UTC] PHP Warning:  Undefined array key "role" in /home/vwdiuanb/public_html/app/officers.php on line 4
+[22-Apr-2026 17:39:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 17:39:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vwdiuanb/public_html/app/config.php on line 2
+[22-Apr-2026 19:25:36 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:25:40 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:25:45 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:25:46 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:25:55 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:26:24 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:26:56 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:28:59 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:29:12 UTC] PHP Parse error:  syntax error, unexpected identifier "customers" in /home/vwdiuanb/public_html/app/due_followups.php on line 10
+[22-Apr-2026 19:35:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column `vwdiuanb_mobileapp`.`customers`.`first_default_date` at row 1 in /home/vwdiuanb/public_html/app/customer_edit.php:41
+Stack trace:
+#0 /home/vwdiuanb/public_html/app/customer_edit.php(41): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/vwdiuanb/public_html/app/customer_edit.php on line 41
+[22-Apr-2026 19:42:33 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 11:04:54 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 14:53:33 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 14:53:42 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 14:54:15 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 14:54:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 14:57:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 14:57:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:02:08 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 15:02:08 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:03:29 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:03:48 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:05:32 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 15:05:32 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:05:49 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 15:05:49 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:06:35 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 15:06:35 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:07:51 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:08:02 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:47:54 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:48:02 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:48:38 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:49:27 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:49:52 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:49:54 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:50:58 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:51:25 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 15:55:08 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 15:55:08 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:00:56 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:01:14 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:01:20 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:01:28 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:15:19 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:15:47 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:16:40 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:17:10 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:17:19 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:32:42 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:32:52 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:33:07 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:34:02 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:34:02 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:34:34 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:34:34 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:34:49 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:34:49 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:34:59 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:34:59 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:35:03 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:35:03 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:51:11 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:51:11 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:51:37 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:51:37 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:56:48 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:56:48 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 16:59:48 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 16:59:48 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 17:33:25 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 17:33:25 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:26:32 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:26:32 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:26:36 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:26:36 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:26:42 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:26:42 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:07 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:07 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:14 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:14 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:18 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:19 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:19 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:19 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:19 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:28:23 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:28:23 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:30:22 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:30:22 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 18:35:47 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 18:35:47 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 19:08:38 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 19:08:38 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 19:18:53 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 19:20:06 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 19:34:53 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 19:34:53 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 20:19:31 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 20:19:31 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 20:21:13 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 20:21:13 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 20:21:21 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 20:21:21 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 20:21:26 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 20:21:26 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 20:21:41 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 20:21:41 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[23-Apr-2026 20:21:46 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 38
+[23-Apr-2026 20:21:46 UTC] PHP Warning:  Undefined variable $search in /home/vwdiuanb/public_html/app/customers.php on line 94
+[29-Apr-2026 17:20:30 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/vwdiuanb/public_html/bkup/dashboard.php on line 731
